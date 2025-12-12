@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#FF4B4B"   # forensic red (you can change to #0077B6 or #FFBF00)
+backgroundColor="#1E1E1E"
+secondaryBackgroundColor="#2D2D2D"
+textColor="#FAFAFA"
+font="sans serif"
